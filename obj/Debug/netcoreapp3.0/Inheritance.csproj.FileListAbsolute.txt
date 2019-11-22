@@ -1,0 +1,11 @@
+/Users/davidcornish/workspace/Inheritance/bin/Debug/netcoreapp3.0/Inheritance
+/Users/davidcornish/workspace/Inheritance/bin/Debug/netcoreapp3.0/Inheritance.deps.json
+/Users/davidcornish/workspace/Inheritance/bin/Debug/netcoreapp3.0/Inheritance.runtimeconfig.json
+/Users/davidcornish/workspace/Inheritance/bin/Debug/netcoreapp3.0/Inheritance.runtimeconfig.dev.json
+/Users/davidcornish/workspace/Inheritance/bin/Debug/netcoreapp3.0/Inheritance.dll
+/Users/davidcornish/workspace/Inheritance/bin/Debug/netcoreapp3.0/Inheritance.pdb
+/Users/davidcornish/workspace/Inheritance/obj/Debug/netcoreapp3.0/Inheritance.csprojAssemblyReference.cache
+/Users/davidcornish/workspace/Inheritance/obj/Debug/netcoreapp3.0/Inheritance.AssemblyInfoInputs.cache
+/Users/davidcornish/workspace/Inheritance/obj/Debug/netcoreapp3.0/Inheritance.AssemblyInfo.cs
+/Users/davidcornish/workspace/Inheritance/obj/Debug/netcoreapp3.0/Inheritance.dll
+/Users/davidcornish/workspace/Inheritance/obj/Debug/netcoreapp3.0/Inheritance.pdb
